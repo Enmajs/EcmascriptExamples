@@ -1,2 +1,2 @@
-# EcmascriptExamples
-Examples with ecmascript
+# babelConfigurations
+Examples emacscript
